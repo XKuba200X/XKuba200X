@@ -1,3 +1,7 @@
+```console
+root@vps2137:~# cat /root/home/Kuba200/readme.md
+```
+
 Hi i am Kuba200 and i am currently developing some useful fivem scripts
 
 
@@ -9,3 +13,5 @@ Hi i am Kuba200 and i am currently developing some useful fivem scripts
 
 📪 If you want to contact you can do it on discord 
 Kuba200#7777
+
+
