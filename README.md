@@ -12,6 +12,6 @@ Hi i am Kuba200 and i am currently developing some useful fivem scripts
 - 🎾 In my free time i like to play tenis
 
 📪 If you want to contact you can do it on discord 
-Kuba200#7777
+Kuba200#7777 or my community discord https://discord.gg/WjjV3FzWjd
 
 
