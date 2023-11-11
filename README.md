@@ -17,4 +17,6 @@ root@vps2137:~# cat /root/home/Kuba200/readme.md
 .kuba200
 kuba.barszczynski@gmail.com
 
+📃 Old support of Thunder Leaks 
+
 
