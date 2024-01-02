@@ -18,6 +18,7 @@ root@vps2137:~# cat /root/home/Kuba200/readme.md
 kuba.barszczynski@gmail.com
 
 📃 Old support of Thunder Leaks 
+
 💜 Owner of Nickscripts
 
 
